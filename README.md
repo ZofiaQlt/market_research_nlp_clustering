@@ -18,6 +18,6 @@ A total of 13 datasets were selected for the purpose of analysis, cleaned, and m
 
 <img width="1759" alt="" src="https://user-images.githubusercontent.com/67431758/233868037-c5d60b6c-b553-4c5d-89ec-1bcf62d3bc04.png">
 
-<img width="1880" alt="Capture d’écran 2023-04-23 à 23 51 59" src="https://user-images.githubusercontent.com/67431758/233868183-92085668-8537-42b2-b241-5653be76d300.png">
+<img width="1880" alt="" src="https://user-images.githubusercontent.com/67431758/233868183-92085668-8537-42b2-b241-5653be76d300.png">
 <img width="1680" alt="github_8" src="https://user-images.githubusercontent.com/67431758/233868269-2c345cb2-f02f-4cdb-a4d1-8e42a01ff78b.png">
 
