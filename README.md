@@ -1,12 +1,10 @@
 # Market Research - unsold vegetable exportations
 
+The datasets are coming from the Food and Agriculture Organization of the United Nations (FAO), OECD, The World Bank, and Our World in Data.
+
 <img width="941" alt="" src="https://user-images.githubusercontent.com/67431758/233866607-ea285bd4-54cd-489c-be87-7cb9ea3ea62d.png">
 
-13 datasets, cleaned and merged into 1 database, were used for the analysis coming from :
-<br>- Food and Agriculture Organization of the United Nations (FAO)
-<br>- OECD
-<br>- The World Bank
-<br>- Our World in Data
+A total of 13 datasets were selected for the purpose of analysis, cleaned, and merged into a single database.
 
 ## Fighting malnutrition through improved worldwide food redistribution of unsold vegetables
 
