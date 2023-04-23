@@ -2,6 +2,12 @@
 
 <img width="941" alt="" src="https://user-images.githubusercontent.com/67431758/233866607-ea285bd4-54cd-489c-be87-7cb9ea3ea62d.png">
 
+13 datasets, cleaned and merged into 1 database, were used for the analysis coming from :
+<br>- Food and Agriculture Organization of the United Nations (FAO)
+<br>- OECD
+<br>- The World Bank
+<br>- Our World in Data
+
 ## Fighting malnutrition through improved worldwide food redistribution of unsold vegetables
 
 *Malnutrition is one of the world's greatest public health challenges, affecting millions of people each year, particularly in developing countries. At the same time, large quantities of vegetables are often wasted or unsold in developed countries due to overproduction and strict aesthetic standards.*
