@@ -13,7 +13,7 @@ A total of 13 datasets were selected for the purpose of analysis, cleaned, and m
 *However, exporting these unsold vegetables to countries that are in short supply could help alleviate the malnutrition crisis by providing nutritious food to those who need it most. The market research analysis will follow these steps:*
 
 + *first we'll define the topic of global malnutrition and its effects on the health of affected populations using NLP*
-+ *then we'll explore the various country clusters for unsold vegetable export to identify opportunities for action against malnutrition and for reducing food waste, to do so we will also take into account the logistical, economic and regulatory challenges associated with this approach*
++ *then we'll explore the various country clusters for unsold vegetable export to identify opportunities for action against malnutrition and for reducing food waste, to do so we'll also take into account the logistical, economic and regulatory challenges associated with this approach*
 + *finally based on the results of our analysis, we'll propose recommendations for target countries for the exportation of unsold vegetables in the context of the fight against malnutrition. A 2010-2020 projection will also be proposed to visualize the stability of the clusters over time*
 
 <img width="1759" alt="" src="https://user-images.githubusercontent.com/67431758/233868037-c5d60b6c-b553-4c5d-89ec-1bcf62d3bc04.png">
