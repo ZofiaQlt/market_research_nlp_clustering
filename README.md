@@ -2,7 +2,7 @@
 
 The datasets are coming from the Food and Agriculture Organization of the United Nations (FAO), OECD, The World Bank, and Our World in Data.
 
-<img width="941" alt="" src="https://user-images.githubusercontent.com/67431758/233866607-ea285bd4-54cd-489c-be87-7cb9ea3ea62d.png">
+<img width="1041" alt="" src="https://user-images.githubusercontent.com/67431758/233866607-ea285bd4-54cd-489c-be87-7cb9ea3ea62d.png">
 
 A total of 13 datasets were selected for the purpose of analysis, cleaned, and merged into a single database with 142 countries and 20 features from 2010 to 2020.
 
